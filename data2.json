@@ -1,0 +1,1856 @@
+[
+    {
+        "name": "Marie Curie",
+        "birthYear": "1867",
+        "deathYear": "1934",
+        "country": "Poland/France",
+        "impact": "A physicist and chemist, Marie Curie was the first woman to win a Nobel Prize and the first person to win two Nobel Prizes in different fields (physics and chemistry). She is known for her pioneering work on radioactivity and her discovery of two elements, radium and polonium."
+        
+    },
+    {
+        "name": "Rosa Parks",
+        "birthYear": "1913",
+        "deathYear": "2005",
+        "country": "United States",
+        "impact": "An African-American civil rights activist, Rosa Parks became an icon of the civil rights movement when she refused to give up her seat on a bus to a white passenger in Montgomery, Alabama in 1955. Her act of defiance helped spark the Montgomery Bus Boycott and inspired a generation of activists."
+        
+    },
+    {
+        "name": "Malala Yousafzai",
+        "birthYear": "1997",
+        "deathYear": "present",
+        "country": "Pakistan",
+        "impact": "A Pakistani activist for female education, Malala Yousafzai became the youngest-ever Nobel Prize laureate in 2014 for her work promoting girls' education and advocating for women's rights. She survived an assassination attempt by the Taliban in 2012 and continues to be a prominent voice for human rights."
+        
+    },
+    {
+        "name": "Margaret Thatcher",
+        "birthYear": "1925",
+        "deathYear": "2013",
+        "country": "United Kingdom",
+        "impact": "A British politician, Margaret Thatcher served as the first female Prime Minister of the United Kingdom from 1979 to 1990. She is known for her conservative policies and tough stance on foreign policy, as well as her leadership during a period of economic and social upheaval in Britain."
+        
+    },
+    {
+        "name": "Ada Lovelace",
+        "birthYear": "1815",
+        "deathYear": "1852",
+        "country": "United Kingdom",
+        "impact": "First computer programmer for work on the analytical engine."
+        
+    },
+    {
+        "name": "Jane Goodall",
+        "birthYear": "1934",
+        "deathYear": "present",
+        "country": "United Kingdom",
+        "impact": "Primatologist and conservationist, known for her work with chimpanzees and activism."
+        
+    },
+    {
+        "name": "Amelia Earhart",
+        "birthYear": "1897",
+        "deathYear": "disappeared 1937",
+        "country": "United States",
+        "impact": "Aviation pioneer and the first woman to fly solo across the Atlantic."
+        
+    },
+    {
+        "name": "Mother Teresa",
+        "birthYear": "1910",
+        "deathYear": "1997",
+        "country": "Republic of Macedonia",
+        "impact": "Catholic nun and humanitarian, founder of Missionaries of Charity."
+        
+    },
+    {
+        "name": "Indira Gandhi",
+        "birthYear": "1917",
+        "deathYear": "1984",
+        "country": "India",
+        "impact": "First female Prime Minister of India and influential leader."
+        
+    },
+    {
+        "name": "Florence Nightingale",
+        "birthYear": "1820",
+        "deathYear": "1910",
+        "country": "United Kingdom",
+        "impact": "Founder of modern nursing and healthcare reformer."
+        
+    },
+    {
+        "name": "Jane Austen",
+        "birthYear": "1775",
+        "deathYear": "1817",
+        "country": "United Kingdom",
+        "impact": "Novelist, known for works such as Pride and Prejudice and Sense and Sensibility."
+        
+    },
+    {
+        "name": "Frida Kahlo",
+        "birthYear": "1907",
+        "deathYear": "1954",
+        "country": "Mexico",
+        "impact": "Artist and feminist icon, known for her self-portraits and bold style."
+        
+    },
+    {
+        "name": "Emmeline Pankhurst",
+        "birthYear": "1858",
+        "deathYear": "1928",
+        "country": "United Kingdom",
+        "impact": "Suffragette and women's rights activist, founder of the Women's Social and Political Union."
+        
+    },
+    {
+        "name": "Harriet Tubman",
+        "birthYear": "1822",
+        "deathYear": "1913",
+        "country": "United States",
+        "impact": "Abolitionist and political activist, led many enslaved people to freedom via the Underground Railroad."
+        
+    },
+    {
+        "name": "Susan B. Anthony",
+        "birthYear": "1820",
+        "deathYear": "1906",
+        "country": "United States",
+        "impact": "Suffragette and women's rights activist, instrumental in securing women's right to vote."
+        
+    },
+    {
+        "name": "Sojourner Truth",
+        "birthYear": "1797",
+        "deathYear": "1883",
+        "country": "United States",
+        "impact": "Abolitionist and women's rights activist, known for her \"Ain't I a Woman?\" speech."
+        
+    },
+    {
+        "name": "Katherine Johnson",
+        "birthYear": "1918",
+        "deathYear": "2020",
+        "country": "United States",
+        "impact": "Mathematician and NASA's first African-American female engineer."
+        
+    },
+    {
+        "name": "Mary Shelley",
+        "birthYear": "1797",
+        "deathYear": "1851",
+        "country": "United Kingdom",
+        "impact": "Novelist, known for writing Frankenstein."
+        
+    },
+    {
+        "name": "Billie Holiday",
+        "birthYear": "1915",
+        "deathYear": "1959",
+        "country": "United States",
+        "impact": "Jazz singer and civil rights activist, known for her powerful voice and poignant lyrics."
+        
+    },
+    {
+        "name": "Rachel Carson",
+        "birthYear": "1907",
+        "deathYear": "1964",
+        "country": "United States",
+        "impact": "Marine biologist and environmentalist, known for her book Silent Spring."
+        
+    },
+    {
+        "name": "Coco Chanel",
+        "birthYear": "1883",
+        "deathYear": "1971",
+        "country": "France",
+        "impact": "Fashion designer and icon, known for her timeless designs and revolutionary fashion sense."
+        
+    },
+    {
+        "name": "Anne Frank",
+        "birthYear": "1929",
+        "deathYear": "1945",
+        "country": "Germany/Netherlands",
+        "impact": "Jewish diarist and victim of the Holocaust, her diary is a testament to the horrors of the Nazi regime."
+        
+    },
+    {
+        "name": "Angela Merkel",
+        "birthYear": "1954",
+        "deathYear": "present",
+        "country": "Germany",
+        "impact": "Chancellor of Germany and influential world leader."
+        
+    },
+    {
+        "name": "Wangari Maathai",
+        "birthYear": "1940",
+        "deathYear": "2011",
+        "country": "Kenya",
+        "impact": "Environmental and political activist, founder of the Green Belt Movement."
+        
+    },
+    {
+        "name": "Clara Barton",
+        "birthYear": "1821",
+        "deathYear": "1912",
+        "country": "United States",
+        "impact": "Nurse and founder of the American Red Cross."
+        
+    },
+    {
+        "name": "Margaret Sanger",
+        "birthYear": "1879",
+        "deathYear": "1966",
+        "country": "United States",
+        "impact": "Women's rights activist and founder of Planned Parenthood."
+        
+    },
+    {
+        "name": "Simone de Beauvoir",
+        "birthYear": "1908",
+        "deathYear": "1986",
+        "country": "France",
+        "impact": "Philosopher and feminist thinker, author of The Second Sex."
+        
+    },
+    {
+        "name": "Ruth Bader Ginsburg",
+        "birthYear": "1933",
+        "deathYear": "2020",
+        "country": "United States",
+        "impact": "Associate Justice of the Supreme Court of the United States and champion of gender equality."
+        
+    },
+    {
+        "name": "Oprah Winfrey",
+        "birthYear": "1954",
+        "deathYear": "present",
+        "country": "United States",
+        "impact": "Media executive, actress, philanthropist, and talk show host."
+        
+    },
+    {
+        "name": "Maya Angelou",
+        "birthYear": "1928",
+        "deathYear": "2014",
+        "country": "United States",
+        "impact": "Poet, memoirist, and civil rights activist."
+        
+    },
+    {
+        "name": "Ada Yonath",
+        "birthYear": "1939",
+        "deathYear": "present",
+        "country": "Israel",
+        "impact": "Biochemist and Nobel laureate for her work on ribosomes."
+        
+    },
+    {
+        "name": "Princess Diana",
+        "birthYear": "1961",
+        "deathYear": "1997",
+        "country": "United Kingdom",
+        "impact": "Humanitarian and advocate for numerous causes, including landmines and AIDS."
+        
+    },
+    {
+        "name": "Greta Thunberg",
+        "birthYear": "2003",
+        "deathYear": "present",
+        "country": "Sweden",
+        "impact": "Environmental activist and advocate for climate change awareness."
+        
+    },
+    {
+        "name": "Rosalind Franklin",
+        "birthYear": "1920",
+        "deathYear": "1958",
+        "country": "United Kingdom",
+        "impact": "Chemist and X-ray crystallographer, her work on DNA helped lay the foundation for the discovery of its structure."
+        
+    },
+    {
+        "name": "Susan Wojcicki",
+        "birthYear": "1968",
+        "deathYear": "present",
+        "country": "United States",
+        "impact": "CEO of YouTube and influential tech leader."
+        
+    },
+    {
+        "name": "J.K. Rowling",
+        "birthYear": "1965",
+        "deathYear": "present",
+        "country": "United Kingdom",
+        "impact": "Author of the Harry Potter series and philanthropist."
+        
+    },
+    {
+        "name": "Aung San Suu Kyi",
+        "birthYear": "1945",
+        "deathYear": "present",
+        "country": "Myanmar",
+        "impact": "Politician and democracy activist, recipient of the Nobel Peace Prize."
+        
+    },
+    {
+        "name": "Shirley Chisholm",
+        "birthYear": "1924",
+        "deathYear": "2005",
+        "country": "United States",
+        "impact": "First African American woman elected to the U.S. Congress, advocate for civil rights and women's rights."
+        
+    },
+    {
+        "name": "Harriet Beecher Stowe",
+        "birthYear": "1811",
+        "deathYear": "1896",
+        "country": "United States",
+        "impact": "Author of Uncle Tom's Cabin, a powerful anti-slavery novel."
+        
+    },
+    {
+        "name": "Bessie Coleman",
+        "birthYear": "1892",
+        "deathYear": "1926",
+        "country": "United States",
+        "impact": "First African American female pilot and advocate for civil rights and women's rights."
+        
+    },
+    {
+        "name": "Ruth Handler",
+        "birthYear": "1916",
+        "deathYear": "2002",
+        "country": "United States",
+        "impact": "Co-founder of Mattel and creator of the Barbie doll."
+        
+    },
+    {
+        "name": "Elizabeth Blackwell",
+        "birthYear": "1821",
+        "deathYear": "1910",
+        "country": "United Kingdom/United States",
+        "impact": "First woman to receive a medical degree in the United States."
+        
+    },
+    {
+        "name": "Alice Paul",
+        "birthYear": "1885",
+        "deathYear": "1977",
+        "country": "United States",
+        "impact": "Suffragette and women's rights activist, instrumental in securing the 19th Amendment to the U.S. Constitution."
+        
+    },
+    {
+        "name": "Gloria Steinem",
+        "birthYear": "1934",
+        "deathYear": "present",
+        "country": "United States",
+        "impact": "Feminist activist and journalist, co-founder of Ms. Magazine."
+        
+    },
+    {
+        "name": "Sally Ride",
+        "birthYear": "1951",
+        "deathYear": "2012",
+        "country": "United States",
+        "impact": "Astronaut and first American woman in space."
+        
+    },
+    {
+        "name": "Eleanor Roosevelt",
+        "birthYear": "1884",
+        "deathYear": "1962",
+        "country": "USA",
+        "impact": "First Lady of the United States, diplomat, and human rights advocate."
+        
+    },
+    {
+        "name": "Benazir Bhutto",
+        "birthYear": "1953",
+        "deathYear": "2007",
+        "country": "Pakistan",
+        "impact": "First female Prime Minister of Pakistan and an advocate for democracy and women's rights."
+        
+    },
+    {
+        "name": "Billie Jean King",
+        "birthYear": "1943",
+        "deathYear": "present",
+        "country": "USA",
+        "impact": "Tennis player and advocate for gender equality in sports."
+        
+    },
+    {
+        "name": "Marie Stopes",
+        "birthYear": "1880",
+        "deathYear": "1958",
+        "country": "UK",
+        "impact": "Palaeobotanist, feminist, birth control activist, and author."
+        
+    },
+    {
+        "name": "Elizabeth Cady Stanton",
+        "birthYear": "1815",
+        "deathYear": "1902",
+        "country": "USA",
+        "impact": "Suffragette and women's rights activist who co-founded the National Woman Suffrage Association."
+        
+    },
+    {
+        "name": "Angela Davis",
+        "birthYear": "1944",
+        "deathYear": "present",
+        "country": "USA",
+        "impact": "Activist, academic, and author who has advocated for civil rights, feminism, and prison abolition."
+        
+    },
+    {
+        "name": "Susan Sontag",
+        "birthYear": "1933",
+        "deathYear": "2004",
+        "country": "USA",
+        "impact": "Writer, filmmaker, and cultural critic who explored themes of politics, gender, and art."
+        
+    },
+    {
+        "name": "Audre Lorde",
+        "birthYear": "1934",
+        "deathYear": "1992",
+        "country": "USA",
+        "impact": "Poet, writer, and activist who addressed issues of race, gender, and sexuality."
+        
+    },
+    {
+        "name": "Coretta Scott King",
+        "birthYear": "1927",
+        "deathYear": "2006",
+        "country": "USA",
+        "impact": "Civil rights activist and wife of Martin Luther King Jr., who continued his legacy after his assassination."
+        
+    },
+    {
+        "name": "Valentina Tereshkova",
+        "birthYear": "1937",
+        "deathYear": "present",
+        "country": "Russia",
+        "impact": "Cosmonaut who became the first woman to travel to space."
+        
+    },
+    {
+        "name": "Maria Montessori",
+        "birthYear": "1870",
+        "deathYear": "1952",
+        "country": "Italy",
+        "impact": "Educator who developed the Montessori method of teaching."
+        
+    },
+    {
+        "name": "Grace Hopper",
+        "birthYear": "1906",
+        "deathYear": "1992",
+        "country": "USA",
+        "impact": "Computer scientist and pioneer of computer programming languages."
+        
+    },
+    {
+        "name": "Barbara McClintock",
+        "birthYear": "1902",
+        "deathYear": "1992",
+        "country": "USA",
+        "impact": "Geneticist and Nobel Prize winner who discovered transposable elements in DNA."
+        
+    },
+    {
+        "name": "Nellie Bly",
+        "birthYear": "1864",
+        "deathYear": "1922",
+        "country": "USA",
+        "impact": "Investigative journalist who famously went undercover in a mental institution to expose its abuses."
+        
+    },
+    {
+        "name": "Margaret Atwood",
+        "birthYear": "1939",
+        "deathYear": "present",
+        "country": "Canada",
+        "impact": "Author and activist who has explored issues of gender, identity, and power in her writing."
+        
+    },
+    {
+        "name": "Janet Yellen",
+        "birthYear": "1946",
+        "deathYear": "present",
+        "country": "USA",
+        "impact": "First female Chair of the Federal Reserve and influential economist."
+        
+    },
+    {
+        "name": "Toni Morrison",
+        "birthYear": "1931",
+        "deathYear": "2019",
+        "country": "USA",
+        "impact": "Pulitzer Prize-winning author and activist who explored themes of race and identity in her writing."
+        
+    },
+    {
+        "name": "Indra Nooyi",
+        "birthYear": "1955",
+        "deathYear": "present",
+        "country": "India",
+        "impact": "Former CEO of PepsiCo and influential business leader."
+        
+    },
+    {
+        "name": "Mary Barra",
+        "birthYear": "1961",
+        "deathYear": "present",
+        "country": "USA",
+        "impact": "CEO of General Motors and influential business leader."
+        
+    },
+    {
+        "name": "Sonia Sotomayor",
+        "birthYear": "1954",
+        "deathYear": "present",
+        "country": "USA",
+        "impact": "Supreme Court Justice and first Latina to serve on the US Supreme Court."
+        
+    },
+    {
+        "name": "Sappho",
+        "birthYear": "630",
+        "deathYear": "570 BC",
+        "country": "Greece",
+        "impact": "Poet and writer whose work has had a lasting impact on Western literature and culture."
+        
+    },
+    {
+        "name": "Hedy Lamarr",
+        "birthYear": "1914",
+        "deathYear": "2000",
+        "country": "Austria/USA",
+        "impact": "Actress and inventor who contributed to the development of spread-spectrum technology and the creation of modern Wi-Fi and Bluetooth."
+        
+    },
+    {
+        "name": "Wilma Rudolph",
+        "birthYear": "1940",
+        "deathYear": "1994",
+        "country": "USA",
+        "impact": "Track and field athlete who overcame polio and racism to become a three-time Olympic gold medalist and influential role model."
+        
+    },
+    {
+        "name": "Temple Grandin",
+        "birthYear": "1947",
+        "deathYear": "present",
+        "country": "USA",
+        "impact": "Scientist and autism advocate who revolutionized the livestock industry with her humane animal handling systems."
+        
+    },
+    {
+        "name": "Dorothy Hodgkin",
+        "birthYear": "1910",
+        "deathYear": "1994",
+        "country": "UK",
+        "impact": "Chemist and X-ray crystallographer who contributed to the discovery of the structures of penicillin and vitamin B12."
+        
+    },
+    {
+        "name": "Frances Perkins",
+        "birthYear": "1880",
+        "deathYear": "1965",
+        "country": "USA",
+        "impact": "Labor activist and first female member of the US Cabinet, who played a key role in the creation of Social Security and other New Deal programs."
+        
+    },
+    {
+        "name": "Betty Friedan",
+        "birthYear": "1921",
+        "deathYear": "2006",
+        "country": "USA",
+        "impact": "Feminist writer and activist who authored \"The Feminine Mystique\" and co-founded the National Organization for Women."
+        
+    },
+    {
+        "name": "Ellen DeGeneres",
+        "birthYear": "1958",
+        "deathYear": "present",
+        "country": "USA",
+        "impact": "Comedian and television host who has been a prominent advocate for LGBTQ rights and social justice causes."
+        
+    },
+    {
+        "name": "Ayn Rand",
+        "birthYear": "1905",
+        "deathYear": "1982",
+        "country": "Russia/USA",
+        "impact": "Russian-American writer and philosopher, known for her influential novels such as \"The Fountainhead\" and \"Atlas Shrugged,\" which espoused her philosophy of Objectivism."
+        
+    },
+    {
+        "name": "Gabriela Mistral",
+        "birthYear": "1889",
+        "deathYear": "1957",
+        "country": "Chile",
+        "impact": "Chilean poet, educator, and diplomat, who was the first Latin American woman to receive the Nobel Prize in Literature in 1945."
+        
+    },
+    {
+        "name": "Amrita Sher-Gil",
+        "birthYear": "1913",
+        "deathYear": "1941",
+        "country": "India/Hungary",
+        "impact": "Indian-Hungarian painter, often called India's Frida Kahlo, who is known for her vivid and powerful depictions of Indian life and culture."
+        
+    },
+    {
+        "name": "Queen Elizabeth II",
+        "birthYear": "born 1926",
+        "country": "UK",
+        "impact": "British monarch and longest-reigning queen in history, who has presided over numerous social, political, and technological changes in the world during her reign."
+        
+    },
+    {
+        "name": "Joan Didion",
+        "birthYear": "born 1934",
+        "country": "USA",
+        "impact": "American writer and journalist, known for her incisive essays and memoirs that explore the cultural upheavals of the 1960s and 1970s."
+        
+    },
+    {
+        "name": "Chien-Shiung Wu",
+        "birthYear": "1912",
+        "deathYear": "1997",
+        "country": "China/USA",
+        "impact": "Chinese-American physicist, who made significant contributions to the Manhattan Project during World War II and later helped disprove the principle of conservation of parity in physics, a discovery that earned her the National Medal of Science in 1975."
+        
+    },
+    {
+        "name": "Marguerite Yourcenar",
+        "birthYear": "1903",
+        "deathYear": "1987",
+        "country": "Belgium/France",
+        "impact": "Belgian-French writer and essayist, who was the first woman to be elected to the French Academy and known for her novels and essays that explore themes of identity, memory, and history."
+        
+    },
+    {
+        "name": "Lise Meitner",
+        "birthYear": "1878",
+        "deathYear": "1968",
+        "country": "Austria/Sweden",
+        "impact": "Austrian-Swedish physicist, who made important contributions to the discovery of nuclear fission during World War II and was one of the few women in her field at the time."
+        
+    },
+    {
+        "name": "Winifred Holtby",
+        "birthYear": "1898",
+        "deathYear": "1935",
+        "country": "UK",
+        "impact": "British writer and feminist, who is best known for her novel \"South Riding\" and her advocacy for women's rights and social justice."
+        
+    },
+    {
+        "name": "Jane Addams",
+        "birthYear": "1860",
+        "deathYear": "1935",
+        "country": "USA",
+        "impact": "American social worker and activist, who co-founded Hull House in Chicago, a settlement house that provided services to immigrant communities, and was the first American woman to receive the Nobel Peace Prize."
+        
+    },
+    {
+        "name": "Mae C. Jemison",
+        "birthYear": "1956",
+        "deathYear": "present",
+        "country": "United States",
+        "impact": "engineer, physician, and NASA astronaut who was the first African American woman to travel to space."
+        
+    },
+    {
+        "name": "Anna Freud",
+        "birthYear": "1895",
+        "deathYear": "1982",
+        "country": "Austria/UK",
+        "impact": "Austrian-British psychoanalyst who made significant contributions to the field of child psychoanalysis. She established the Hampstead Child Therapy Course and Clinic, and later the Hampstead Clinic, both of which played a crucial role in the development of child psychoanalysis. Freud's work has had a lasting impact on our understanding of childhood development and mental health."
+        
+    },
+    {
+        "name": "Mary McLeod Bethune",
+        "birthYear": "1875",
+        "deathYear": "1955",
+        "country": "United States",
+        "impact": "educator and civil rights leader who founded the National Council of Negro Women and worked to promote education and equal rights for African Americans and women."
+        
+    },
+    {
+        "name": "Edith Wharton",
+        "birthYear": "1862",
+        "deathYear": "1937",
+        "country": "United States",
+        "impact": "Pulitzer Prize-winning author and literary critic who is best known for her novels exploring the lives of the American upper class."
+        
+    },
+    {
+        "name": "Helen Keller",
+        "birthYear": "1880",
+        "deathYear": "1968",
+        "country": "United States",
+        "impact": "author, activist, and lecturer who was the first deaf-blind person to earn a bachelor of arts degree. She dedicated her life to advocating for people with disabilities and championing social justice causes."
+        
+    },
+    {
+        "name": "Mary Wollstonecraft",
+        "birthYear": "1759",
+        "deathYear": "1797",
+        "country": "United Kingdom",
+        "impact": "writer and philosopher who is best known for her work \"A Vindication of the Rights of Woman,\" which argued for women's education and equality."
+        
+    },
+    {
+        "name": "Chimamanda Ngozi Adichie",
+        "birthYear": "1977",
+        "country": "Nigeria",
+        "impact": "Nigerian author and feminist who is best known for her novels \"Purple Hibiscus,\" \"Half of a Yellow Sun,\" and \"Americanah.\" Adichie's writing addresses issues of race, gender, and identity and has received numerous awards and critical acclaim."
+        
+    },
+    {
+        "name": "Daniele Tamagni",
+        "birthYear": "1975",
+        "deathYear": "2017",
+        "country": "Italy",
+        "impact": "Italian photographer known for his work documenting fashion and street style in Africa. Tamagni's book \"Gentlemen of Bacongo\" won the 2010 Infinity Award for Best Publication from the International Center of Photography."
+        
+    },
+    {
+        "name": "Sandra Day O'Connor",
+        "birthYear": "1930",
+        "country": "USA",
+        "impact": "American jurist who served as the first female Justice of the Supreme Court of the United States from 1981 to 2006. O'Connor is known for her judicial conservatism and for being a swing vote on many controversial cases."
+        
+    },
+    {
+        "name": "Julia Child",
+        "birthYear": "1912",
+        "deathYear": "2004",
+        "country": "USA",
+        "impact": "American chef, author, and television personality, credited with bringing French cuisine to the American public through her cookbooks and TV shows."
+        
+    },
+    {
+        "name": "Mary Quant",
+        "birthYear": "1934",
+        "country": "UK",
+        "impact": "British fashion designer and icon of the 1960s youth fashion movement, popularizing the miniskirt and hot pants."
+        
+    },
+    {
+        "name": "Dorothea Lange",
+        "birthYear": "1895",
+        "deathYear": "1965",
+        "country": "USA",
+        "impact": "American documentary photographer and photojournalist, best known for her Depression-era photographs and portraits of migrant workers and rural communities, which humanized the consequences of the Great Depression and influenced social documentary photography."
+        
+    },
+    {
+        "name": "Emma Watson",
+        "birthYear": "1990",
+        "deathYear": "present",
+        "country": "UK",
+        "impact": "Actress and UN Women Goodwill Ambassador, advocate for gender equality and women's rights."
+        
+    },
+    {
+        "name": "Ellen Johnson Sirleaf",
+        "birthYear": "1938",
+        "deathYear": "present",
+        "country": "Liberia",
+        "impact": "Liberia's first female president, and the first elected female head of state in Africa."
+        
+    },
+    {
+        "name": "Junko Tabei",
+        "birthYear": "1939",
+        "deathYear": "2016",
+        "country": "Japan",
+        "impact": "The first woman to reach the summit of Mount Everest, and the first woman to climb the Seven Summits."
+        
+    },
+    {
+        "name": "Dolores Huerta",
+        "birthYear": "1930",
+        "deathYear": "present",
+        "country": "USA",
+        "impact": "Labor leader and civil rights activist, co-founder of the United Farm Workers and advocate for farmworkers' rights."
+        
+    },
+    {
+        "name": "Zora Neale Hurston",
+        "birthYear": "1891",
+        "deathYear": "1960",
+        "country": "USA",
+        "impact": "Author and anthropologist, known for her groundbreaking work on African American folklore and literature, including the novel Their Eyes Were Watching God."
+        
+    },
+    {
+        "name": "Mae Jemison",
+        "birthYear": "1956",
+        "deathYear": "present",
+        "country": "USA",
+        "impact": "The first African American woman to travel to space, aboard the Endeavour space shuttle in 1992."
+        
+    },
+    {
+        "name": "Ella Baker",
+        "birthYear": "1903",
+        "deathYear": "1986",
+        "country": "USA",
+        "impact": "Civil rights activist and organizer, known for her work with the Southern Christian Leadership Conference and the Student Nonviolent Coordinating Committee."
+        
+    },
+    {
+        "name": "Fannie Lou Hamer",
+        "birthYear": "1917",
+        "deathYear": "1977",
+        "country": "USA",
+        "impact": "Civil rights activist and organizer, known for her work with the Student Nonviolent Coordinating Committee and her advocacy for voting rights."
+        
+    },
+    {
+        "name": "Emma Goldman",
+        "birthYear": "1869",
+        "deathYear": "1940",
+        "country": "USA",
+        "impact": "Anarchist and feminist activist, known for her advocacy for free speech, workers' rights, and reproductive rights."
+        
+    },
+    {
+        "name": "Dorothea Dix",
+        "birthYear": "1802",
+        "deathYear": "1887",
+        "country": "USA",
+        "impact": "American activist who revolutionized the care of mentally ill patients and helped establish the first generation of mental asylums in the United States."
+        
+    },
+    {
+        "name": "Jane Fonda",
+        "birthYear": "1937",
+        "country": "USA",
+        "impact": "American actress and political activist who has been an advocate for many causes, including environmentalism, feminist causes, and the end of the Vietnam War."
+        
+    },
+    {
+        "name": "Leymah Gbowee",
+        "birthYear": "1972",
+        "country": "Liberia",
+        "impact": "Liberian peace activist who organized a movement of women to help bring an end to the Second Liberian Civil War in 2003, and was awarded the Nobel Peace Prize in 2011."
+        
+    },
+    {
+        "name": "Rigoberta Menchú Tum",
+        "birthYear": "1959",
+        "country": "Guatemala",
+        "impact": "Guatemalan indigenous rights activist who was awarded the Nobel Peace Prize in 1992 for her work advocating for indigenous peoples' rights."
+        
+    },
+    {
+        "name": "Mary Edwards Walker",
+        "birthYear": "1832",
+        "deathYear": "1919",
+        "country": "USA",
+        "impact": "American feminist, abolitionist, and Civil War surgeon who was the first woman to receive the Medal of Honor, and worked tirelessly for women's suffrage and equality."
+        
+    },
+    {
+        "name": "Maya Lin",
+        "birthYear": "1959",
+        "country": "USA",
+        "impact": "American artist and architect who designed the Vietnam Veterans Memorial in Washington, D.C., and has since gone on to design many other prominent memorials and buildings."
+        
+    },
+    {
+        "name": "Harriet Martineau",
+        "birthYear": "1802",
+        "deathYear": "1876",
+        "country": "UK",
+        "impact": "British writer and social theorist who was one of the earliest feminist writers, and wrote extensively about social and political issues of her time."
+        
+    },
+    {
+        "name": "Ellen Swallow Richards",
+        "birthYear": "1842",
+        "deathYear": "1911",
+        "country": "USA",
+        "impact": "American chemist and environmental activist who was the first woman admitted to the Massachusetts Institute of Technology, and later became a prominent advocate for environmental and public health."
+        
+    },
+    {
+        "name": "Melinda Gates",
+        "birthYear": "1964",
+        "country": "USA",
+        "impact": "philanthropist and co-founder of the Bill & Melinda Gates Foundation, dedicated to fighting poverty, disease, and inequality around the world."
+        
+    },
+    {
+        "name": "Rukmini Devi Arundale",
+        "birthYear": "1904",
+        "deathYear": "1986",
+        "country": "India",
+        "impact": "classical dancer and choreographer, credited with reviving Indian dance forms and establishing the Kalakshetra Foundation."
+        
+    },
+    {
+        "name": "Sophie Scholl",
+        "birthYear": "1921",
+        "deathYear": "1943",
+        "country": "Germany",
+        "impact": "student and resistance fighter during Nazi Germany, executed for her role in distributing anti-war leaflets with the White Rose group."
+        
+    },
+    {
+        "name": "Marian Wright Edelman",
+        "birthYear": "1939",
+        "country": "USA",
+        "impact": "activist and founder of the Children's Defense Fund, dedicated to improving the lives of children in poverty and advocating for their rights."
+        
+    },
+    {
+        "name": "Dian Fossey",
+        "birthYear": "1932",
+        "deathYear": "1985",
+        "country": "USA",
+        "impact": "Primatologist, studied mountain gorillas in Rwanda, established Karisoke Research Center."
+        
+    },
+    {
+        "name": "Emmy Noether",
+        "birthYear": "1882",
+        "deathYear": "1935",
+        "country": "Germany",
+        "impact": "Mathematician, known for her contributions to abstract algebra and theoretical physics."
+        
+    },
+    {
+        "name": "Gertrude B. Elion",
+        "birthYear": "1918",
+        "deathYear": "1999",
+        "country": "USA",
+        "impact": "Biochemist and pharmacologist, developed drugs to treat leukemia, herpes, and AIDS."
+        
+    },
+    {
+        "name": "Dr. Ruth Westheimer",
+        "birthYear": "1928",
+        "country": "Germany/USA",
+        "impact": "Sex therapist and educator, author of numerous books on human sexuality."
+        
+    },
+    {
+        "name": "Alice Walker",
+        "birthYear": "1944",
+        "country": "USA",
+        "impact": "Author and activist, Pulitzer Prize winner for \"The Color Purple,\" prominent voice in the feminist and civil rights movements."
+        
+    },
+    {
+        "name": "Yoani Sánchez",
+        "birthYear": "1975",
+        "deathYear": "present",
+        "country": "Cuba",
+        "impact": "Cuban blogger and journalist known for her critical views of the Cuban government. Has won numerous awards for her work in promoting freedom of expression."
+        
+    },
+    {
+        "name": "Tawakkol Karman",
+        "birthYear": "1979",
+        "deathYear": "present",
+        "country": "Yemen",
+        "impact": "Yemeni journalist and activist who became the first Arab woman to win the Nobel Peace Prize in 2011 for her work in promoting women's rights and democracy in Yemen."
+        
+    },
+    {
+        "name": "Ngozi Okonjo-Iweala",
+        "birthYear": "1954",
+        "deathYear": "present",
+        "country": "Nigeria",
+        "impact": "Nigerian-American economist and international development expert who served as the first female and African Director-General of the World Trade Organization."
+        
+    },
+    {
+        "name": "Shirin Ebadi",
+        "birthYear": "1947",
+        "deathYear": "present",
+        "country": "Iran",
+        "impact": "Iranian lawyer and human rights activist who won the Nobel Peace Prize in 2003 for her efforts in promoting democracy and human rights, especially the rights of women and children."
+        
+    },
+    {
+        "name": "Irena Sendler",
+        "birthYear": "1910",
+        "deathYear": "2008",
+        "country": "Poland",
+        "impact": "Polish social worker and nurse who smuggled thousands of Jewish children out of the Warsaw Ghetto during World War II, saving them from the Holocaust."
+        
+    },
+    {
+        "name": "Marsha P. Johnson",
+        "birthYear": "1945",
+        "deathYear": "1992",
+        "country": "United States",
+        "impact": "African-American transgender activist and a key figure in the Stonewall uprising of 1969, which was a catalyst for the modern LGBTQ rights movement."
+        
+    },
+    {
+        "name": "Asma Jahangir",
+        "birthYear": "1952",
+        "deathYear": "2018",
+        "country": "Pakistan",
+        "impact": "Pakistani human rights lawyer and activist who co-founded the Human Rights Commission of Pakistan and served as the UN Special Rapporteur on Freedom of Religion or Belief."
+        
+    },
+    {
+        "name": "Nadia Murad",
+        "birthYear": "1993",
+        "deathYear": "present",
+        "country": "Iraq",
+        "impact": "Yazidi human rights activist who survived captivity and sexual slavery by ISIS. Won the Nobel Peace Prize in 2018 for her efforts to end the use of sexual violence as a weapon of war."
+        
+    },
+    {
+        "name": "Ginni Rometty",
+        "birthYear": "1957",
+        "country": "USA",
+        "impact": "American businesswoman who served as CEO of IBM from 2012 to 2020, making her the first woman to hold the position."
+        
+    },
+    {
+        "name": "Margot Wallström",
+        "birthYear": "1954",
+        "country": "Sweden",
+        "impact": "Swedish diplomat and politician who served as the United Nations Special Representative on Sexual Violence in Conflict and as Sweden's Foreign Minister."
+        
+    },
+    {
+        "name": "Zaha Hadid",
+        "birthYear": "1950",
+        "deathYear": "2016",
+        "country": "UK",
+        "impact": "British-Iraqi architect and designer who became the first woman to receive the Pritzker Architecture Prize in 2004 and designed numerous iconic buildings around the world."
+        
+    },
+    {
+        "name": "Nadine Gordimer",
+        "birthYear": "1923",
+        "deathYear": "2014",
+        "country": "South Africa",
+        "impact": "South African writer and activist who won the Nobel Prize in Literature in 1991 for her novels and short stories that explored the effects of apartheid on society."
+        
+    },
+    {
+        "name": "Soong Ching-ling",
+        "birthYear": "1893",
+        "deathYear": "1981",
+        "country": "China",
+        "impact": "Chinese politician and revolutionary who was one of the founding members of the People's Republic of China and served as its vice president."
+        
+    },
+    {
+        "name": "Meryl Streep",
+        "birthYear": "1949",
+        "country": "USA",
+        "impact": "American actress who has won three Academy Awards, and has been nominated for a record 21 Oscars. Known for her versatile acting abilities, she has starred in numerous critically acclaimed films, including \"Kramer vs. Kramer\", \"Sophie's Choice\", \"The Devil Wears Prada\", and \"Mamma Mia!\". Streep has also been a vocal advocate for gender equality and environmental issues."
+        
+    },
+    {
+        "name": "Malalai Joya",
+        "birthYear": "1978",
+        "country": "Afghanistan",
+        "impact": "An activist and politician who has been a prominent critic of the Afghan government and a vocal advocate for women's rights."
+        
+    },
+    {
+        "name": "Jhumpa Lahiri",
+        "birthYear": "1967",
+        "country": "USA",
+        "impact": "A Pulitzer Prize-winning author who writes about the immigrant experience and cultural identity."
+        
+    },
+    {
+        "name": "Janet Mock",
+        "birthYear": "1983",
+        "country": "USA",
+        "impact": "An author, activist, and television host who advocates for transgender rights and visibility."
+        
+    },
+    {
+        "name": "Shonda Rhimes",
+        "birthYear": "1970",
+        "country": "USA",
+        "impact": "A television producer and writer who has created several hit shows with diverse casts and storylines."
+        
+    },
+    {
+        "name": "Angela Ahrendts",
+        "birthYear": "1960",
+        "country": "USA",
+        "impact": "A businesswoman who has held executive positions at several major companies, including Apple and Burberry."
+        
+    },
+    {
+        "name": "Gloria Allred",
+        "birthYear": "1941",
+        "country": "USA",
+        "impact": "A lawyer and activist who has fought for women's rights and advocated for victims of sexual assault and harassment."
+        
+    },
+    {
+        "name": "Amal Clooney",
+        "birthYear": "1978",
+        "country": "UK",
+        "impact": "A lawyer who specializes in human rights and international law and has represented several high-profile clients."
+        
+    },
+    {
+        "name": "Roxane Gay",
+        "birthYear": "1974",
+        "country": "USA",
+        "impact": "A writer and activist who has addressed issues of feminism, race, and identity in her work."
+        
+    },
+    {
+        "name": "Danica Roem",
+        "birthYear": "1984",
+        "country": "USA",
+        "impact": "A politician who became the first openly transgender woman to be elected to a state legislature in the United States."
+        
+    },
+    {
+        "name": "Ruth Negga",
+        "birthYear": "1982",
+        "country": "Ethiopia/Ireland",
+        "impact": "Ethiopian-Irish actress known for her performances in films such as \"Loving\" and \"Ad Astra\" and for her advocacy for women's rights and racial equality."
+        
+    },
+    {
+        "name": "Nadja Benaissa",
+        "birthYear": "1982",
+        "country": "Germany",
+        "impact": "German singer and songwriter who rose to fame as a member of the girl group No Angels and became an advocate for HIV/AIDS awareness after revealing her own HIV-positive status."
+        
+    },
+    {
+        "name": "Abida Parveen",
+        "birthYear": "1954",
+        "country": "Pakistan",
+        "impact": "Pakistani singer and musician known for her contributions to the Sufi music genre and for her efforts to promote interfaith harmony and peace."
+        
+    },
+    {
+        "name": "Amanda Gorman",
+        "birthYear": "1998",
+        "country": "USA",
+        "impact": "American poet and activist who gained national attention for her performance of her poem \"The Hill We Climb\" at the inauguration of President Joe Biden."
+        
+    },
+    {
+        "name": "Christine Lagarde",
+        "birthYear": "1956",
+        "country": "France",
+        "impact": "French lawyer and politician who became the first female managing director of the International Monetary Fund and is known for her efforts to promote gender equality and economic growth."
+        
+    },
+    {
+        "name": "Amani Ballour",
+        "birthYear": "1987",
+        "country": "Syria",
+        "impact": "Syrian pediatrician who became the manager of an underground hospital in the war-torn city of Ghouta and was the subject of the documentary \"The Cave\"."
+        
+    },
+    {
+        "name": "Adwoa Aboah",
+        "birthYear": "1992",
+        "country": "UK",
+        "impact": "British fashion model and mental health advocate who founded the online platform Gurls Talk to provide a safe space for young women to discuss issues such as mental health, sexuality, and body image."
+        
+    },
+    {
+        "name": "Tegla Loroupe",
+        "birthYear": "1973",
+        "country": "Kenya",
+        "impact": "Kenyan long-distance runner and human rights activist who founded the Tegla Loroupe Peace Foundation to promote peace and development in conflict-affected areas of Africa."
+        
+    },
+    {
+        "name": "Jacqueline Novogratz",
+        "birthYear": "1961",
+        "country": "USA",
+        "impact": "American entrepreneur and founder of the Acumen Fund, a nonprofit organization that invests in businesses and entrepreneurs to create positive social change."
+        
+    },
+    {
+        "name": "Ayman al-Zawahiri",
+        "birthYear": "1951",
+        "country": "Egypt",
+        "impact": "Egyptian physician and leader of the terrorist group Al-Qaeda who has been involved in numerous attacks on Western targets."
+        
+    },
+    {
+        "name": "Meena Keshwar Kamal",
+        "birthYear": "1956",
+        "deathYear": "1987",
+        "country": "Afghanistan",
+        "impact": "Afghan women's rights activist who founded the Revolutionary Association of the Women of Afghanistan and was assassinated at the age of 30."
+        
+    },
+    {
+        "name": "Helen Sharman",
+        "birthYear": "1963",
+        "country": "UK",
+        "impact": "British chemist and astronaut who became the first British person to go into space in 1991 as part of the Soviet Union's space program."
+        
+    },
+    {
+        "name": "Rachel Maddow",
+        "birthYear": "1973",
+        "country": "USA",
+        "impact": "American television host and political commentator known for her left-leaning political views and for hosting her own show, \"The Rachel Maddow Show\"."
+        
+    },
+    {
+        "name": "Fatima al-Fihri",
+        "birthYear": "c. 800",
+        "deathYear": "880",
+        "country": "Morocco",
+        "impact": "Moroccan scholar and founder of the University of al-Qarawiyyin, one of the oldest continuously operating universities in the world."
+        
+    },
+    {
+        "name": "Fauzia Minallah",
+        "birthYear": "1966",
+        "country": "Pakistan",
+        "impact": "Pakistani artist and activist who founded the Funkor Child Art Center to promote children's art and education, particularly for girls."
+        
+    },
+    {
+        "name": "Fanny Crosby",
+        "birthYear": "1820",
+        "deathYear": "1915",
+        "country": "USA",
+        "impact": "American hymn writer and poet who wrote over 8,000 hymns, including \"Blessed Assurance\" and \"To God Be the Glory\", and is considered one of the most prolific hymn writers in history."
+        
+    },
+    {
+        "name": "Ada Deer",
+        "birthYear": "1935",
+        "country": "USA",
+        "impact": "Native American social worker and politician who became the first woman to head the Bureau of Indian Affairs and helped establish the Menominee Restoration Act, which restored federal recognition to the Menominee tribe."
+        
+    },
+    {
+        "name": "Carolina Maria de Jesus",
+        "birthYear": "1914",
+        "deathYear": "1977",
+        "country": "Brazil",
+        "impact": "Brazilian author and social activist who wrote about life in a favela in her book \"Child of the Dark\", which became an international bestseller and shed light on poverty and social inequality in Brazil."
+        
+    },
+    {
+        "name": "Amalia Eriksson",
+        "birthYear": "1824",
+        "deathYear": "1923",
+        "country": "Sweden",
+        "impact": "Swedish entrepreneur who founded the company A. E. Eriksson, which produced matches and employed over 4,000 women, becoming one of the largest match manufacturers in the world."
+        
+    },
+    {
+        "name": "Ellen Wilkinson",
+        "birthYear": "1891",
+        "deathYear": "1947",
+        "country": "UK",
+        "impact": "British Labour Party politician who served as the Minister of Education and helped pass the Education Act of 1944, which made secondary education free and compulsory for all children in England and Wales."
+        
+    },
+    {
+        "name": "Amina of Zazzau",
+        "birthYear": "1533",
+        "deathYear": "1610",
+        "country": "Nigeria",
+        "impact": "Warrior queen of the city-state of Zazzau (now known as Zaria) in Nigeria, who led her troops into battle and expanded the kingdom's territory, becoming a legendary figure in African history."
+        
+    },
+    {
+        "name": "Dolores Ibárruri",
+        "birthYear": "1895",
+        "deathYear": "1989",
+        "country": "Spain",
+        "impact": "Spanish politician and communist leader who played a prominent role in the Spanish Civil War and was known for her rallying cry \"¡No pasarán!\" (\"They shall not pass!\") during the Battle of Madrid."
+        
+    },
+    {
+        "name": "Vivi Täckholm",
+        "birthYear": "1906",
+        "deathYear": "1995",
+        "country": "Sweden",
+        "impact": "Swedish botanist and ecologist who pioneered the study of marine algae and helped establish the first marine biology station in the Mediterranean."
+        
+    },
+    {
+        "name": "Bessie Blount Griffin",
+        "birthYear": "1914",
+        "deathYear": "2009",
+        "country": "USA",
+        "impact": "American nurse and inventor who developed an electronic feeding device for wounded soldiers during World War II, which led to her being awarded a contract with the U.S. Navy and making significant contributions to the field of physical therapy."
+        
+    },
+    {
+        "name": "Carmen Amaya",
+        "birthYear": "1913",
+        "deathYear": "1963",
+        "country": "Spain",
+        "impact": "Spanish flamenco dancer and singer who popularized flamenco in the United States and performed in Hollywood films, becoming a symbol of Spanish culture and identity."
+        
+    },
+    {
+        "name": "Anna Politkovskaya",
+        "birthYear": "1958",
+        "deathYear": "2006",
+        "country": "Russia",
+        "impact": "Russian journalist and human rights activist who reported on corruption, human rights abuses, and the Chechen conflict, and was assassinated in 2006."
+        
+    },
+    {
+        "name": "Maria Tallchief",
+        "birthYear": "1925",
+        "deathYear": "2013",
+        "country": "USA",
+        "impact": "American ballerina of Osage heritage, considered one of the greatest Native American dancers of all time, and the first Native American prima ballerina."
+        
+    },
+    {
+        "name": "Emma Lazarus",
+        "birthYear": "1849",
+        "deathYear": "1887",
+        "country": "USA",
+        "impact": "American poet who wrote \"The New Colossus,\" the sonnet that appears on the pedestal of the Statue of Liberty, and helped to shape the perception of America as a beacon of freedom."
+        
+    },
+    {
+        "name": "Flossie Wong-Staal",
+        "birthYear": "1946",
+        "deathYear": "2012",
+        "country": "China/USA",
+        "impact": "Chinese-American virologist who was the first to clone HIV and determine its genetic structure, making critical contributions to the development of antiretroviral therapies."
+        
+    },
+    {
+        "name": "Claudette Colvin",
+        "birthYear": "1939",
+        "country": "USA",
+        "impact": "American civil rights activist who, at age 15, refused to give up her seat on a Montgomery, Alabama bus, nine months before Rosa Parks did the same thing."
+        
+    },
+    {
+        "name": "Maud Lewis",
+        "birthYear": "1903",
+        "deathYear": "1970",
+        "country": "Canada",
+        "impact": "Canadian folk artist who, despite living with severe rheumatoid arthritis, painted vibrant and whimsical scenes of rural life that have become internationally renowned."
+        
+    },
+    {
+        "name": "Florence Bascom",
+        "birthYear": "1862",
+        "deathYear": "1945",
+        "country": "USA",
+        "impact": "American geologist who was the first woman to receive a PhD from Johns Hopkins University, and the first woman hired by the United States Geological Survey."
+        
+    },
+    {
+        "name": "Lene Vestergaard Hau",
+        "birthYear": "1959",
+        "country": "Denmark",
+        "impact": "Danish physicist who led a team at Harvard University that achieved the first successful slowing of light, and has made significant contributions to the field of quantum optics."
+        
+    },
+    {
+        "name": "Leta Stetter Hollingworth",
+        "birthYear": "1886",
+        "deathYear": "1939",
+        "country": "USA",
+        "impact": "American psychologist who was a pioneer in the study of gifted children and the education of women, and helped to establish the field of clinical psychology."
+        
+    },
+    {
+        "name": "Christine de Pizan",
+        "birthYear": "1364",
+        "deathYear": "1430",
+        "country": "Italy/France",
+        "impact": "Italian-French author and philosopher who was one of the first women in Europe to earn a living as a writer, and wrote extensively on the role of women in society, challenging the prevailing misogyny of her time."
+        
+    },
+    {
+        "name": "Lottie Dod",
+        "birthYear": "1871",
+        "deathYear": "1960",
+        "country": "UK",
+        "impact": "English athlete who won five Wimbledon tennis titles and five golf championships before the age of 21, and became the first woman to win Olympic medals in two sports."
+        
+    },
+    {
+        "name": "Eliza Lucas Pinckney",
+        "birthYear": "1722",
+        "deathYear": "1793",
+        "country": "USA",
+        "impact": "American planter and businesswoman who successfully cultivated indigo as a cash crop in colonial South Carolina, contributing to the development of the colony's economy."
+        
+    },
+    {
+        "name": "Marie Van Brittan Brown",
+        "birthYear": "1922",
+        "deathYear": "1999",
+        "country": "USA",
+        "impact": "African-American inventor and nurse who developed the first home security system, including closed-circuit television, in the 1960s, revolutionizing the field of home security."
+        
+    },
+    {
+        "name": "Margarita Salas",
+        "birthYear": "1938",
+        "deathYear": "2019",
+        "country": "Spain",
+        "impact": "Spanish biochemist who made groundbreaking discoveries in DNA replication, including the development of a technique for replicating DNA that is now used in labs around the world."
+        
+    },
+    {
+        "name": "Patsy Takemoto Mink",
+        "birthYear": "1927",
+        "deathYear": "2002",
+        "country": "USA",
+        "impact": "American politician and lawyer who served in the U.S. House of Representatives and played a key role in advancing civil rights, women's rights, and education policy during her career."
+        
+    },
+    {
+        "name": "Leila Khaled",
+        "birthYear": "1944",
+        "country": "Palestine",
+        "impact": "Palestinian political activist and member of the Popular Front for the Liberation of Palestine, who gained international attention for her involvement in airplane hijackings in the 1960s and 70s as part of the Palestinian struggle for self-determination."
+        
+    },
+    {
+        "name": "Marjane Satrapi",
+        "birthYear": "1969",
+        "country": "Iran",
+        "impact": "Iranian graphic novelist and filmmaker who has explored themes of identity, culture, and politics in her works, including the award-winning graphic novel \"Persepolis\" and its film adaptation."
+        
+    },
+    {
+        "name": "Rosalyn Yalow",
+        "birthYear": "1921",
+        "deathYear": "2011",
+        "country": "USA",
+        "impact": "American medical physicist who developed the radioimmunoassay technique for measuring hormones in the blood, earning her a Nobel Prize in Physiology or Medicine in 1977."
+        
+    },
+    {
+        "name": "Gerda Weissmann Klein",
+        "birthYear": "1924",
+        "country": "USA",
+        "impact": "Polish-American Holocaust survivor, author, and human rights activist who founded Citizenship Counts, an organization that promotes civic responsibility and engagement among young people."
+        
+    },
+    {
+        "name": "Anita Hill",
+        "birthYear": "1956",
+        "country": "USA",
+        "impact": "American attorney and educator who became a prominent figure in the fight against sexual harassment and workplace discrimination, especially after her testimony during the confirmation hearings of Supreme Court Justice Clarence Thomas in 1991."
+        
+    },
+    {
+        "name": "Nawal El Saadawi",
+        "birthYear": "1931",
+        "deathYear": "2021",
+        "country": "Egypt",
+        "impact": "Egyptian feminist writer, activist, and physician who challenged social norms and political oppression in her work, advocating for women's rights and political reform in the Arab world."
+        
+    },
+    {
+        "name": "Mary Jackson",
+        "birthYear": "1921",
+        "deathYear": "2005",
+        "country": "USA",
+        "impact": "American mathematician and aerospace engineer who broke down barriers for women and people of color at NASA, earning numerous awards and helping to inspire the next generation of scientists and engineers."
+        
+    },
+    {
+        "name": "Mae Carol Jemison",
+        "birthYear": "1956",
+        "country": "USA",
+        "impact": "American engineer, physician, and former NASA astronaut who became the first African American woman to travel to space, inspiring countless young people to pursue careers in science and engineering."
+        
+    },
+    {
+        "name": "Mary Eliza Mahoney",
+        "birthYear": "1845",
+        "deathYear": "1926",
+        "country": "USA",
+        "impact": "African American nurse and the first registered Black nurse in the US. She co-founded the National Association of Colored Graduate Nurses to advocate for racial equality in the nursing profession."
+        
+    },
+    {
+        "name": "Annie Jump Cannon",
+        "birthYear": "1863",
+        "deathYear": "1941",
+        "country": "USA",
+        "impact": "American astronomer who developed the Harvard Classification of stars, which classified stars based on their spectral types."
+        
+    },
+    {
+        "name": "Eglantyne Jebb",
+        "birthYear": "1876",
+        "deathYear": "1928",
+        "country": "UK",
+        "impact": "Founder of the charity Save the Children, which provides aid and support to children in need around the world."
+        
+    },
+    {
+        "name": "Hattie McDaniel",
+        "birthYear": "1895",
+        "deathYear": "1952",
+        "country": "USA",
+        "impact": "African American actress who won an Academy Award for Best Supporting Actress for her role in Gone with the Wind, making her the first Black person to win an Academy Award."
+        
+    },
+    {
+        "name": "Fannie Farmer",
+        "birthYear": "1857",
+        "deathYear": "1915",
+        "country": "USA",
+        "impact": "American chef and cookbook author who is credited with revolutionizing the way cooking is taught and understood in the US. She also helped standardize measurements in cooking."
+        
+    },
+    {
+        "name": "Gertrude Ederle",
+        "birthYear": "1905",
+        "deathYear": "2003",
+        "country": "USA",
+        "impact": "American swimmer who became the first woman to swim across the English Channel in 1926."
+        
+    },
+    {
+        "name": "Ella Fitzgerald",
+        "birthYear": "1917",
+        "deathYear": "1996",
+        "country": "USA",
+        "impact": "American jazz singer known as the \"First Lady of Song\" who won 13 Grammy Awards during her career."
+        
+    },
+    {
+        "name": "Lillian Moller Gilbreth",
+        "birthYear": "1878",
+        "deathYear": "1972",
+        "country": "USA",
+        "impact": "American psychologist and engineer who was a pioneer in the field of industrial engineering. She is also known for her work in time-motion studies and ergonomics."
+        
+    },
+    {
+        "name": "Julia Morgan",
+        "birthYear": "1872",
+        "deathYear": "1957",
+        "country": "USA",
+        "impact": "First licensed female architect in California, known for designing Hearst Castle."
+        
+    },
+    {
+        "name": "Edmonia Lewis",
+        "birthYear": "1844",
+        "deathYear": "1907",
+        "country": "USA",
+        "impact": "First woman of African-American and Native American descent to gain international recognition as a sculptor."
+        
+    },
+    {
+        "name": "Eileen Collins",
+        "birthYear": "1956",
+        "country": "USA",
+        "impact": "First female pilot and first female commander of a Space Shuttle mission."
+        
+    },
+    {
+        "name": "Wu Zetian",
+        "birthYear": "624",
+        "deathYear": "705",
+        "country": "China",
+        "impact": "Only woman in Chinese history to rule as emperor, known for her political and military reforms."
+        
+    },
+    {
+        "name": "Valentina Vladimirovna Tereshkova",
+        "birthYear": "1937",
+        "country": "Russia",
+        "impact": "First woman to travel to space, in 1963."
+        
+    },
+    {
+        "name": "Shirley Ann Jackson",
+        "birthYear": "1946",
+        "country": "USA",
+        "impact": "Physicist and the first African-American woman to earn a doctorate from MIT, known for her work in condensed matter physics."
+        
+    },
+    {
+        "name": "Fawzia Koofi",
+        "birthYear": "1975",
+        "country": "Afghanistan",
+        "impact": "First female deputy speaker of the Afghan parliament, women's rights activist, and candidate for presidency in Afghanistan."
+        
+    },
+    {
+        "name": "Hedy Fry",
+        "birthYear": "1941",
+        "country": "Canada",
+        "impact": "Physician and politician, first woman of African and Caribbean ancestry to be elected to the Canadian House of Commons, and first female Minister of State for Multiculturalism in Canada."
+        
+    },
+    {
+        "name": "Amina J. Mohammed",
+        "birthYear": "1961",
+        "country": "Nigeria",
+        "impact": "Nigerian diplomat, Deputy Secretary-General of the United Nations, and advocate for sustainable development and women's rights."
+        
+    },
+    {
+        "name": "Maria da Penha Maia Fernandes",
+        "birthYear": "1945",
+        "country": "Brazil",
+        "impact": "Brazilian women's rights activist and survivor of domestic violence, who advocated for the creation of the Maria da Penha Law in Brazil to protect women from domestic violence."
+        
+    },
+    {
+        "name": "Betty Williams",
+        "birthYear": "1943",
+        "country": "Northern Ireland",
+        "impact": "Nobel Peace Prize laureate, co-founder of the Community of Peace People in Northern Ireland to promote peace and non-violence."
+        
+    },
+    {
+        "name": "Grace Paley",
+        "birthYear": "1922",
+        "deathYear": "2007",
+        "country": "USA",
+        "impact": "American writer and political activist, known for her short stories and poetry that tackled issues such as feminism and social justice."
+        
+    },
+    {
+        "name": "Claudia Jones",
+        "birthYear": "1915",
+        "deathYear": "1964",
+        "country": "Trinidad and Tobago",
+        "impact": "Journalist, feminist, and communist activist who founded the first major black newspaper in Britain and organized the first Caribbean carnival in London."
+        
+    },
+    {
+        "name": "Mary Harris \"Mother\" Jones",
+        "birthYear": "1837",
+        "deathYear": "1930",
+        "country": "USA",
+        "impact": "Irish-born American schoolteacher and labor organizer, known for her work in organizing coal miners and founding the Social Democratic Party."
+        
+    },
+    {
+        "name": "Aya Chebbi",
+        "birthYear": "1988",
+        "country": "Tunisia",
+        "impact": "Pan-African feminist and activist who is the first African Union Youth Envoy and advocates for youth empowerment, gender equality, and social justice."
+        
+    },
+    {
+        "name": "Yaa Asantewaa",
+        "birthYear": "1840",
+        "deathYear": "1921",
+        "country": "Ghana",
+        "impact": "Queen mother of the Ejisu kingdom in Ghana who led the Ashanti rebellion against British colonialism in 1900."
+        
+    },
+    {
+        "name": "Sarah Boone",
+        "birthYear": "1832",
+        "deathYear": "1904",
+        "country": "USA",
+        "impact": "African-American inventor who patented an improved ironing board in 1892."
+        
+    },
+    {
+        "name": "Caroline Herschel",
+        "birthYear": "1750",
+        "deathYear": "1848",
+        "country": "Germany/UK",
+        "impact": "Astronomer who discovered several comets and was the first woman to receive a salary for scientific work."
+        
+    },
+    {
+        "name": "Rana el Kaliouby",
+        "birthYear": "1978",
+        "country": "Egypt",
+        "impact": "Computer scientist and entrepreneur who co-founded Affectiva, a company that develops facial expression recognition software using artificial intelligence."
+        
+    },
+    {
+        "name": "Anne Morrow Lindbergh",
+        "birthYear": "1906",
+        "deathYear": "2001",
+        "country": "USA",
+        "impact": "Aviator, author, and the first American woman to earn a glider pilot's license."
+        
+    },
+    {
+        "name": "Ruth First",
+        "birthYear": "1925",
+        "deathYear": "1982",
+        "country": "South Africa",
+        "impact": "Anti-apartheid activist and scholar who was a leader in the African National Congress and was assassinated by the South African government."
+        
+    },
+    {
+        "name": "Věra Čáslavská",
+        "birthYear": "1942",
+        "deathYear": "2016",
+        "country": "Czech Republic",
+        "impact": "Olympic gymnast who won 22 international titles and stood up against the Soviet invasion of Czechoslovakia in 1968."
+        
+    },
+    {
+        "name": "Miriam Makeba",
+        "birthYear": "1932",
+        "deathYear": "2008",
+        "country": "South Africa",
+        "impact": "Singer and civil rights activist who used her music to promote African culture and speak out against apartheid."
+        
+    },
+    {
+        "name": "Barbara Gittings",
+        "birthYear": "1932",
+        "deathYear": "2007",
+        "country": "USA",
+        "impact": "LGBTQ rights activist who worked to remove homosexuality from the American Psychiatric Association's list of mental disorders and founded the first LGBTQ rights organization in the US."
+        
+    },
+    {
+        "name": "Françoise Gilot",
+        "birthYear": "1921",
+        "country": "France",
+        "impact": "Artist and writer who was the lover and muse of Pablo Picasso and became an accomplished artist in her own right."
+        
+    },
+    {
+        "name": "Ada Limón",
+        "birthYear": "1976",
+        "country": "USA",
+        "impact": "Poet and author who has won numerous awards for her work and has served as a judge for several literary prizes."
+        
+    },
+    {
+        "name": "Yayoi Kusama",
+        "birthYear": "1929",
+        "country": "Japan",
+        "impact": "Contemporary artist who is known for her avant-garde paintings, installations, and sculptures and is one of the world's top-selling female artists."
+        
+    },
+    {
+        "name": "Constance Markievicz",
+        "birthYear": "1868",
+        "deathYear": "1927",
+        "country": "Ireland",
+        "impact": "Revolutionary and politician who was the first woman elected to the British Parliament and the first female government minister in Europe."
+        
+    },
+    {
+        "name": "Leyla Zana",
+        "birthYear": "1961",
+        "country": "Turkey",
+        "impact": "Kurdish politician and human rights activist who was the first Kurdish woman elected to the Turkish parliament in 1991. She was imprisoned for 10 years for speaking Kurdish during her parliamentary oath and has become a symbol of the Kurdish struggle for rights and recognition in Turkey."
+        
+    },
+    {
+        "name": "Nafissatou Diallo",
+        "birthYear": "1979",
+        "country": "Guinea",
+        "impact": "Guinean immigrant to the US who gained international attention after she accused former IMF chief Dominique Strauss-Kahn of sexual assault in 2011. Despite the case being dismissed, Diallo's bravery in speaking out against a powerful figure sparked a global conversation about sexual harassment and assault."
+        
+    },
+    {
+        "name": "Sunita Williams",
+        "birthYear": "1965",
+        "country": "USA",
+        "impact": "American astronaut and naval officer who has spent a total of 322 days in space, including multiple spacewalks. She is one of the most experienced American astronauts and has broken multiple records for spaceflight, including the longest single spaceflight by a woman."
+        
+    },
+    {
+        "name": "Wu Qingyuan",
+        "birthYear": "1914",
+        "deathYear": "1995",
+        "country": "China",
+        "impact": "Chinese Go player who is widely regarded as one of the greatest players of all time. He popularized the game of Go in Japan and played a key role in improving the status of the game in China, where it had been suppressed during the Cultural Revolution."
+        
+    },
+    {
+        "name": "Angela Gheorghiu",
+        "birthYear": "1965",
+        "country": "Romania",
+        "impact": "Romanian soprano who has performed in the world's leading opera houses and is known for her powerful voice and dramatic stage presence. She has used her success to support a number of charitable causes, including children's hospitals and animal welfare organizations."
+        
+    },
+    {
+        "name": "Chavela Vargas",
+        "birthYear": "1919",
+        "deathYear": "2012",
+        "country": "Mexico",
+        "impact": "Mexican singer and cultural icon who was openly lesbian and an advocate for LGBTQ+ rights. She was known for her unique style of singing ranchera music and for her powerful and emotional performances, which often spoke to the experiences of marginalized communities."
+        
+    },
+    {
+        "name": "Qiu Jin",
+        "birthYear": "1875",
+        "deathYear": "1907",
+        "country": "china",
+        "impact": "Chinese revolutionary who fought against the Qing dynasty and advocated for women's rights and education."
+        
+    },
+    {
+        "name": "Deng Yingchao",
+        "birthYear": "1904",
+        "deathYear": "1992",
+        "country": "china",
+        "impact": "Chinese politician and wife of Premier Zhou Enlai, who was a prominent advocate for women's rights and social welfare."
+        
+    },
+    {
+        "name": "Yuan Longping",
+        "birthYear": "1930",
+        "deathYear": "2021",
+        "country": "china",
+        "impact": "Chinese agricultural scientist who developed hybrid rice, greatly increasing China's agricultural output and helping to alleviate famine."
+        
+    },
+    {
+        "name": "Feng Jianmei",
+        "birthYear": "1988",
+        "country": "china",
+        "impact": "Chinese woman who was forcibly aborted at seven months pregnant due to China's one-child policy, and became a prominent advocate for reproductive rights."
+        
+    },
+    {
+        "name": "Zhang Haidi",
+        "birthYear": "1955",
+        "country": "china",
+        "impact": "Chinese writer and disability rights activist who has worked to improve the lives of people with disabilities in China."
+        
+    },
+    {
+        "name": "Liang Xiaoxiao",
+        "birthYear": "1981",
+        "deathYear": "2013",
+        "country": "china",
+        "impact": "Chinese feminist activist who used social media to raise awareness of gender inequality and sexual harassment in China."
+    }
+]
