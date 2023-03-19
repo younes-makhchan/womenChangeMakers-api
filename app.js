@@ -11,10 +11,21 @@ app.set("views",path.join(__dirname,"views"))
 
 app.set("engine","ejs")
 app.use(express.static(path.join(__dirname,"public")))
-app.get("/",(req,res)=>{
-    res.render("index.ejs");
-})
+
 app.get("/home",(req,res)=>{
+    fs.readFile("data.json",(err,data)=>{
+        if(err){console.log("error "+err);return;}
+        else{
+            let womendata=JSON.parse(data);
+            womendata=womendata.sort((a,b)=>{
+                if(a.country=="Morocco")return false;
+                return true;
+            })
+            res.render("home.ejs",{women:womendata});
+        }
+    });
+})
+app.get("/",(req,res)=>{
     fs.readFile("data.json",(err,data)=>{
         if(err){console.log("error "+err);return;}
         else{
