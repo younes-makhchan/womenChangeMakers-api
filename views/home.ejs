@@ -106,19 +106,64 @@ grid-template-columns: repeat(auto-fit, minmax(10rem, 1fr));
   </div>
       <section class="women">
 
-        <% for( let index = 0; index < women.length; index++ ) { %>
-            <div class="card" style="transform: rotate(<%= Math.random() * (5 - -5) + -5 %>deg);">
-              <img class="flag" src="https://flagsapi.com/<%=women[index]["iso2"]%>/flat/32.png" />
-                      <img  class="flower" src="./download.png" loading="lazy"/>
-                    <h2><%=women[index].name%> </h2>
-                    <h5><%=women[index].birthYear%><%=women[index].deathYear?"-"+women[index].deathYear:""%> </h5>
-                    <p><%=women[index].impact%></p>
-            </div>
-        
-        <% } %>
+      
       </section>  
         
-            
+            <script>
+                               let womens=document.querySelector(".women");
+
+                                      fetch("/global?page=1",{
+                                        method:"GET"
+                                      })
+                                      .then(res=>res.json())
+                                      .then((women)=>{
+                                        console.log(women)
+                                        for(let index=0;index<women.length;index++){
+                                                    womens.innerHTML += `<div class="card" style="transform: rotate(${ (Math.random() * (5 - -5) + -5)+"deg"});">
+                                            <img class="flag" src="https://flagsapi.com/${women[index]["iso2"]}/flat/32.png" />
+                                                    <img  class="flower" src="./download.png" loading="lazy"/>
+                                                  <h2>${women[index]["name"]} </h2>
+                                                  <h5>${women[index]["birthYear"]}${women[index]["deathYear"]?"-"+women[index]["deathYear"]:""} </h5>
+                                                  <p>${women[index]["impact"]}</p>
+                                          </div>`
+
+                                        }
+
+                                      }).catch(err=>console.log(err));
+                                      let page=1
+                      window.addEventListener("scroll",(event)=>{
+
+                totalHeight=document.documentElement.scrollHeight
+                position=document.documentElement.scrollTop+window.innerHeight;
+                if(totalHeight<(position+1500)){
+                  console.log("fetching")
+                  page++;
+                  let womens=document.querySelector(".women");
+                                fetch("/global?page="+page,{
+                                  method:"GET"
+                                })
+                                .then(res=>res.json())
+                                .then((women)=>{
+                                  console.log(women)
+                                  for(let index=0;index<women.length;index++){
+                                              womens.innerHTML += `<div class="card" style="transform: rotate(${ (Math.random() * (5 - -5) + -5)+"deg"});">
+                                      <img class="flag" src="https://flagsapi.com/${women[index]["iso2"]}/flat/32.png" />
+                                              <img  class="flower" src="./download.png" loading="lazy"/>
+                                            <h2>${women[index]["name"]} </h2>
+                                            <h5>${women[index]["birthYear"]}${women[index]["deathYear"]?"-"+women[index]["deathYear"]:""} </h5>
+                                            <p>${women[index]["impact"]}</p>
+                                    </div>`
+
+                                  }
+
+                                }).catch(err=>console.log(err));
+
+
+                }
+                } )
+
+              
+            </script>
 
 
 </body>

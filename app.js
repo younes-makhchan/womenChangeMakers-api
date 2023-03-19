@@ -26,27 +26,23 @@ app.get("/home",(req,res)=>{
     });
 })
 app.get("/",(req,res)=>{
-    fs.readFile("data.json",(err,data)=>{
-        if(err){console.log("error "+err);return;}
-        else{
-            let womendata=JSON.parse(data);
-            womendata=womendata.sort((a,b)=>{
-                if(a.country=="Morocco")return false;
-                return true;
-            })
-            res.render("home.ejs",{women:womendata});
-        }
-    });
+
+            res.render("home.ejs");
+        
+    
 })
 
 
 
 app.get("/global",(req,res)=>{
+    const page=req.query.page||1;
+    const ITEM_PAR_PAGE=30;
     fs.readFile("data.json",(err,data)=>{
         if(err){console.log("error "+err);return;}
         else{
-            let womendata=JSON.parse(data);
-            res.json(womendata);  
+            womenData=JSON.parse(data);
+            
+            res.json(womenData.slice((page-1)*ITEM_PAR_PAGE,page*ITEM_PAR_PAGE));  
         }
     });
 });
@@ -84,15 +80,23 @@ app.get("/global/:womanName",(req,res)=>{
     })
 })
 
+
 app.get("/arab",(req,res)=>{
+    const page=req.query.page||1;
+    const ITEM_PAR_PAGE=30;
+    console.log("req");
     fs.readFile("data1.json",(err,data)=>{
         if(err){console.log("error "+err);return;}
         else{
             womenData=JSON.parse(data);
-            res.json(womenData);  
+            
+            res.json(womenData.slice((page-1)*ITEM_PAR_PAGE,page*ITEM_PAR_PAGE));  
         }
     });
 });
+
+
+
 app.get("/arab/:womanName",(req,res)=>{
     const {womanName}=req.params
     
