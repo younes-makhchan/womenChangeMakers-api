@@ -23,10 +23,17 @@ body{
 
   overflow-x: hidden;
 }
+.head{
+  text-align: center;
+  padding-top: min(15vh,15rem);
+    padding-bottom: min(15vh,10rem);
+}
+.head p{
+  color: rgb(141 135 135);
+}
 .title{
   text-align: center;
-    padding-top: min(15vh,15rem);
-    padding-bottom: min(15vh,10rem);
+    
 }
 .women {
   display: grid;
@@ -92,8 +99,11 @@ grid-template-columns: repeat(auto-fit, minmax(10rem, 1fr));
 </head>
 <body>
 
+  <div class="head">
 
-  <h1 class="title">To celebrate Our Women Achievement</h1>
+    <h1 class="title">To celebrate Our Women Achievement</h1>
+    <p>(scrooling Never Ends)</p>
+  </div>
       <section class="women">
 
         <% for( let index = 0; index < women.length; index++ ) { %>
