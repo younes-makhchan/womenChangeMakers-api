@@ -9,8 +9,8 @@ app.get("/global",(req,res)=>{
     fs.readFile("data.json",(err,data)=>{
         if(err){console.log("error "+err);return;}
         else{
-            const data=JSON.parse(data);
-            res.json(data);  
+            let womendata=JSON.parse(data);
+            res.json(womendata);  
         }
     });
 });
@@ -52,8 +52,8 @@ app.get("/arab",(req,res)=>{
     fs.readFile("data1.json",(err,data)=>{
         if(err){console.log("error "+err);return;}
         else{
-            const data=JSON.parse(data);
-            res.json(data);  
+            womenData=JSON.parse(data);
+            res.json(womenData);  
         }
     });
 });
