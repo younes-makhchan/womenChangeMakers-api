@@ -1,0 +1,26 @@
+
+
+nav ul{
+    display: flex;
+ justify-content:flex-end;
+    gap: 15px;
+    padding-top:20px;
+   flex-wrap: wrap;
+    
+
+}
+
+a{  
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: rgb(23, 23, 23);
+    text-decoration: none;
+    padding: 5px 5px 0 5px;
+
+}
+
+.active{
+    color: rgb(140, 34, 245);
+    background-color: rgba(200, 144, 255, 0.567);
+    border-bottom: solid 2px rgb(140, 34, 245);
+}

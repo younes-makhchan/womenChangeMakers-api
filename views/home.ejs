@@ -5,6 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>To celebrate Our Women Achievement</title>
+    <link rel="stylesheet" href="css/nav.css">
     <style>
  @import url("https://fonts.googleapis.com/css2?family=Kalam:wght@300&display=swap");
 
@@ -12,6 +13,8 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  text-decoration: none;
+  list-style: none;
 }
 
 html {
@@ -27,6 +30,7 @@ body{
   text-align: center;
   padding-top: min(15vh,15rem);
     padding-bottom: min(15vh,10rem);
+    padding-inline: 5px;
 }
 .head p{
   color: rgb(141 135 135);
@@ -79,6 +83,16 @@ grid-template-columns: repeat(auto-fit, minmax(10rem, 1fr));
   text-align: center;
   font-size: 2rem;
 }
+@media (max-width:430px) {
+  .title {
+  font-size: 1.4rem;
+} 
+}
+@media (max-width:330px) {
+  .title {
+  font-size: 0.8rem;
+} 
+}
 .card > h5 {
   font-family: "Kalam", cursive;
   font-weight: bold;
@@ -98,17 +112,31 @@ grid-template-columns: repeat(auto-fit, minmax(10rem, 1fr));
     </style>
 </head>
 <body>
-
+  <!-- <header>
+    <nav>
+      <div></div>
+      <ul>
+              <li> <a href="/Home" class="active">Home</a></li>
+              <li> <a href="/About">About</a></li>
+              <li> <a href="/api">API</a></li>
+              <li> <a href="#"><img src="search.svg" class="search"/></a></li>
+      </ul>
+     
+     
+    </nav>
+  </header> -->
   <div class="head">
 
-    <h1 class="title">To celebrate Our Women Achievement</h1>
-    <p>(No matter how much you scroll,it Never <span style="color:red">End</span>)</p>
+    <h1 class="title">Herstory: Celebrating Women's Achievements</h1>
+    <p>(No matter how much you scroll,it Never <span style="color:rgb(140, 34, 245)">End</span>)</p>
   </div>
       <section class="women">
 
       
       </section>  
-        
+      
+     
+
             <script>
                                let womens=document.querySelector(".women");
                               let fetchOff=true;
@@ -167,6 +195,6 @@ grid-template-columns: repeat(auto-fit, minmax(10rem, 1fr));
               
             </script>
 
-
+  
 </body>
 </html>
