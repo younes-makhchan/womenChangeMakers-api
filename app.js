@@ -2,9 +2,34 @@
 const  express=require("express");
 const bodyParser=require("body-parser");
 const fs=require("fs");
+const path=require("path")
 const { getHistoryFiguers, getHistoryEvents } = require("./helpers/historyAPI");
 
 const  app=express();
+
+app.set("views",path.join(__dirname,"views"))
+
+app.set("engine","ejs")
+app.use(express.static(path.join(__dirname,"public")))
+app.get("/",(req,res)=>{
+    res.render("index.ejs");
+})
+app.get("/home",(req,res)=>{
+    fs.readFile("data.json",(err,data)=>{
+        if(err){console.log("error "+err);return;}
+        else{
+            let womendata=JSON.parse(data);
+            womendata=womendata.sort((a,b)=>{
+                if(a.country=="Morocco")return false;
+                return true;
+            })
+            res.render("home.ejs",{women:womendata});
+        }
+    });
+})
+
+
+
 app.get("/global",(req,res)=>{
     fs.readFile("data.json",(err,data)=>{
         if(err){console.log("error "+err);return;}
@@ -90,6 +115,8 @@ app.get("/arab/:womanName",(req,res)=>{
         }
     })
 })
+
+
 
 app.listen(7000,()=>console.log("server start listening at 7000"));
 
