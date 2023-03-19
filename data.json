@@ -1,20 +1,13 @@
-[
-    {
-        "name": "Fatima Mernissi",
-        "birthYear": "1940",
-        "deathYear": "2015",
-        "country": "Morocco",
-        "impact": "Moroccan sociologist and writer, advocate for women's rights and gender equality.",
-        "iso2": "MA"
-    },
-    {
-        "name": "Lalla Salma",
-        "birthYear": "1978",
-        "deathYear": "",
-        "country": "Morocco",
-        "impact": "Former Queen Consort of Morocco, advocate for health and social welfare.",
-        "iso2": "MA"
-    },
+[{
+    "name": "Lalla Salma",
+    "birthYear": "1978",
+    "deathYear": "",
+    "country": "Morocco",
+    "impact": "Former Queen Consort of Morocco, advocate for health and social welfare.",
+    "iso2": "MA"
+},
+   
+    
     {
         "name": "Salwa Akhannouch",
         "birthYear": "1964",
@@ -38,6 +31,23 @@
         "country": "Morocco",
         "impact": "Moroccan singer and advocate for Arab music and cultural preservation.",
         "iso2": "MA"
+    },
+    {
+        "name": "Suad Amiry",
+        "birthYear": "1951",
+        "deathYear": "",
+        "country": "Palestine",
+        "impact": "Palestinian architect and writer, advocate for human rights and cultural exchange.",
+        "iso2": "PS"
+    },
+
+    {
+        "name": "Maryam Mirzakhani",
+        "birthYear": "1977",
+        "deathYear": "2017",
+        "country": "Iran",
+        "impact": "Iranian mathematician and first woman to win the Fields Medal, advocate for women in STEM fields.",
+        "iso2": "IR"
     },
     {
         "name": "Latifa Ibn Ziaten",
@@ -71,6 +81,111 @@
         "impact": "Moroccan-Canadian architect and advocate for sustainable design and cultural preservation.",
         "iso2": "MA"
     },
+   
+    {
+        "name": "Abeer Abu Ghaith",
+        "birthYear": "1970",
+        "deathYear": "",
+        "country": "Palestine",
+        "impact": "Palestinian journalist and advocate for press freedom and human rights.",
+        "iso2": "PS"
+    },
+    {
+        "name": "Yasmine El-Mehairy",
+        "birthYear": "1983",
+        "deathYear": "",
+        "country": "Egypt",
+        "impact": "Egyptian entrepreneur and advocate for social entrepreneurship and women's empowerment.",
+        "iso2": "EG"
+    },
+    {
+        "name": "Nawal El Moutawakel",
+        "birthYear": "1962",
+        "deathYear": "",
+        "country": "Morocco",
+        "impact": "Moroccan athlete and advocate for women's sports and gender equality.",
+        "iso2": "MA"
+    },{
+        "name": "Amal Al Qubaisi",
+        "birthYear": "1969",
+        "deathYear": "",
+        "country": "United Arab Emirates",
+        "impact": "Emirati politician and advocate for education and women's rights.",
+        "iso2": "AE"
+    },
+    {
+        "name": "Mariam Al-Mansouri",
+        "birthYear": "1979",
+        "deathYear": "",
+        "country": "United Arab Emirates",
+        "impact": "Emirati military pilot and advocate for women's empowerment and gender equality.",
+        "iso2": "AE"
+    },
+    {
+        "name": "Dima Wannous",
+        "birthYear": "1982",
+        "deathYear": "",
+        "country": "Syria",
+        "impact": "Syrian author and advocate for women's rights and freedom of expression.",
+        "iso2": "SY"
+    },
+    {
+        "name": "Dr. Hanan Ashrawi",
+        "birthYear": "1946",
+        "deathYear": "",
+        "country": "Palestine",
+        "impact": "Palestinian politician and advocate for human rights and Palestinian statehood.",
+        "iso2": "PS"
+    },
+    {
+        "name": "Dr. Huda Zoghbi",
+        "birthYear": "1954",
+        "deathYear": "",
+        "country": "Lebanon",
+        "impact": "Lebanese-American geneticist and advocate for scientific research and education.",
+        "iso2": "LB"
+    },
+    
+    {
+        "name": "Abeer Abu Ghaith",
+        "birthYear": "1970",
+        "deathYear": "",
+        "country": "Palestine",
+        "impact": "Palestinian journalist and advocate for press freedom and human rights.",
+        "iso2": "PS"
+    },
+    {
+        "name": "Yasmine El-Mehairy",
+        "birthYear": "1983",
+        "deathYear": "",
+        "country": "Egypt",
+        "impact": "Egyptian entrepreneur and advocate for social entrepreneurship and women's empowerment.",
+        "iso2": "EG"
+    },
+    {
+        "name": "Fatima Mernissi",
+        "birthYear": "1940",
+        "deathYear": "2015",
+        "country": "Morocco",
+        "impact": "Moroccan sociologist and writer, advocate for women's rights and gender equality.",
+        "iso2": "MA"
+    },
+    {
+        "name": "Amal Al Qubaisi",
+        "birthYear": "1969",
+        "deathYear": "",
+        "country": "United Arab Emirates",
+        "impact": "Emirati politician and advocate for education and women's rights.",
+        "iso2": "AE"
+    },
+    {
+        "name": "Mariam Al-Mansouri",
+        "birthYear": "1979",
+        "deathYear": "",
+        "country": "United Arab Emirates",
+        "impact": "Emirati military pilot and advocate for women's empowerment and gender equality.",
+        "iso2": "AE"
+    },
     {
         "name": "Dr. Khadija Moussaid",
         "birthYear": "1973",
@@ -88,13 +203,30 @@
         "iso2": "MA"
     },
     {
-        "name": "Nawal El Moutawakel",
-        "birthYear": "1962",
+        "name": "Dr. Huda Zoghbi",
+        "birthYear": "1954",
         "deathYear": "",
-        "country": "Morocco",
-        "impact": "Moroccan athlete and advocate for women's sports and gender equality.",
-        "iso2": "MA"
+        "country": "Lebanon",
+        "impact": "Lebanese-American geneticist and advocate for scientific research and education.",
+        "iso2": "LB"
     },
+    {
+        "name": "Dima Wannous",
+        "birthYear": "1982",
+        "deathYear": "",
+        "country": "Syria",
+        "impact": "Syrian author and advocate for women's rights and freedom of expression.",
+        "iso2": "SY"
+    },
+    {
+        "name": "Dr. Hanan Ashrawi",
+        "birthYear": "1946",
+        "deathYear": "",
+        "country": "Palestine",
+        "impact": "Palestinian politician and advocate for human rights and Palestinian statehood.",
+        "iso2": "PS"
+    },
+  
     {
         "name": "Najat Vallaud-Belkacem",
         "birthYear": "1977",
@@ -136,6 +268,14 @@
         "iso2": "MA"
     },
     {
+        "name": "Manal Al-Sharif",
+        "birthYear": "1979",
+        "deathYear": "",
+        "country": "Saudi Arabia",
+        "impact": "Saudi activist and writer, advocate for women's rights and social change.",
+        "iso2": "SA"
+    },
+    {
         "name": "Zineb El Rhazoui",
         "birthYear": "1982",
         "deathYear": "",
@@ -158,6 +298,22 @@
         "country": "Morocco",
         "impact": "First Moroccan woman to earn a medical degree and advocate for women's rights",
         "iso2": "MA"
+    },
+    {
+        "name": "Rima Khalaf",
+        "birthYear": "1953",
+        "deathYear": "",
+        "country": "Jordan",
+        "impact": "Jordanian economist and former Under-Secretary-General of the United Nations, advocate for economic development and women's empowerment.",
+        "iso2": "JO"
+    },
+    {
+        "name": "Mona Eltahawy",
+        "birthYear": "1967",
+        "deathYear": "",
+        "country": "Egypt",
+        "impact": "Egyptian-American journalist and feminist activist, advocate for women's rights and gender equality.",
+        "iso2": "EG"
     },
     {
         "name": "Rajaâ Cherkaoui El-Moursli",
@@ -192,6 +348,22 @@
         "iso2": "MA"
     },
     {
+        "name": "Yara Shahidi",
+        "birthYear": "2000",
+        "deathYear": "",
+        "country": "USA",
+        "impact": "Iranian-American actress and activist, advocate for social justice and youth empowerment.",
+        "iso2": "US"
+    },
+    {
+        "name": "Nadia Murad",
+        "birthYear": "1993",
+        "deathYear": "",
+        "country": "Iraq",
+        "impact": "Iraqi activist and Nobel Peace Prize laureate, advocate for human rights and ending human trafficking.",
+        "iso2": "IQ"
+    },
+    {
         "name": "Fadhma Aït Mansour",
         "birthYear": "",
         "deathYear": "",
@@ -215,14 +387,7 @@
         "impact": "poet who wrote about social and political issues affecting Moroccan women.",
         "iso2": "MA"
     },
-    {
-        "name": "Lalla Aisha bint Mohammed al-Makkiya",
-        "birthYear": "",
-        "deathYear": "",
-        "country": "Morocco",
-        "impact": "poet and writer who contributed to the preservation of Moroccan cultural heritage.",
-        "iso2": "MA"
-    },
+    
     {
         "name": "Lalla Zineb bint Mohammed",
         "birthYear": "",
@@ -238,6 +403,22 @@
         "country": "Morocco",
         "impact": "daughter of Sultan Hassan I and advocate for women's rights in Morocco.",
         "iso2": "MA"
+    },
+    {
+        "name": "Hind Al-Soulia",
+        "birthYear": "1983",
+        "deathYear": "",
+        "country": "Saudi Arabia",
+        "impact": "Saudi photographer and artist, advocate for women's rights and cultural exchange.",
+        "iso2": "SA"
+    },
+    {
+        "name": "Hala Alyan",
+        "birthYear": "1986",
+        "deathYear": "",
+        "country": "Palestine",
+        "impact": "Palestinian-American writer and poet, advocate for social justice and cultural exchange.",
+        "iso2": "PS"
     },
     {
         "name": "Mariem Hassan",
@@ -272,84 +453,20 @@
         "iso2": "MA"
     },
     {
-        "name": "Fatima al-Badawiyya",
-        "birthYear": "",
-        "deathYear": "",
-        "country": "Morocco",
-        "impact": "A Sufi mystic and saint known for her piety and devotion to God.",
-        "iso2": "MA"
-    },
-    {
-        "name": "Lalla Aicha",
-        "birthYear": "",
-        "deathYear": "",
-        "country": "Morocco",
-        "impact": "A princess and poet who wrote about love, nature, and social issues.",
-        "iso2": "MA"
-    },
-    {
-        "name": "Fatima al-Fihri",
-        "birthYear": "c. 800",
-        "deathYear": "880",
-        "country": "Morocco",
-        "impact": "Moroccan scholar and founder of the University of al-Qarawiyyin, one of the oldest continuously operating universities in the world.",
-        "iso2": "MA"
-    },
-    {
-        "name": "Rasha Al Danhani",
-        "birthYear": "",
-        "deathYear": "",
-        "country": "United Arab Emirates",
-        "impact": "Founder of Dubai-based creative agency \"Let's Talk\".",
-        "iso2": "AE"
-    },
-    {
-        "name": "Hind Al-Soulia",
-        "birthYear": "1983",
-        "deathYear": "",
-        "country": "Saudi Arabia",
-        "impact": "Saudi photographer and artist, advocate for women's rights and cultural exchange.",
-        "iso2": "SA"
-    },
-    {
-        "name": "Hala Alyan",
-        "birthYear": "1986",
-        "deathYear": "",
-        "country": "Palestine",
-        "impact": "Palestinian-American writer and poet, advocate for social justice and cultural exchange.",
-        "iso2": "PS"
-    },
-    {
-        "name": "Suad Amiry",
-        "birthYear": "1951",
-        "deathYear": "",
-        "country": "Palestine",
-        "impact": "Palestinian architect and writer, advocate for human rights and cultural exchange.",
-        "iso2": "PS"
-    },
-    {
-        "name": "Manal Al-Sharif",
-        "birthYear": "1979",
-        "deathYear": "",
-        "country": "Saudi Arabia",
-        "impact": "Saudi activist and writer, advocate for women's rights and social change.",
-        "iso2": "SA"
-    },
-    {
-        "name": "Maryam Mirzakhani",
-        "birthYear": "1977",
-        "deathYear": "2017",
-        "country": "Iran",
-        "impact": "Iranian mathematician and first woman to win the Fields Medal, advocate for women in STEM fields.",
-        "iso2": "IR"
-    },
-    {
         "name": "Hind bint Hamad Al Thani",
         "birthYear": "1984",
         "deathYear": "",
         "country": "Qatar",
         "impact": "Qatari princess and advocate for education and women's rights.",
         "iso2": "QA"
+    },
+    {
+        "name": "Lalla Aisha bint Mohammed al-Makkiya",
+        "birthYear": "",
+        "deathYear": "",
+        "country": "Morocco",
+        "impact": "poet and writer who contributed to the preservation of Moroccan cultural heritage.",
+        "iso2": "MA"
     },
     {
         "name": "Tawakkol Karman",
@@ -359,22 +476,7 @@
         "impact": "Yemeni journalist and Nobel Peace Prize laureate, advocate for human rights and democracy.",
         "iso2": "YE"
     },
-    {
-        "name": "Souad Abderrahim",
-        "birthYear": "1962",
-        "deathYear": "",
-        "country": "Tunisia",
-        "impact": "First female mayor of Tunis, advocate for urban development and women's rights.",
-        "iso2": "TN"
-    },
-    {
-        "name": "Rola Dashti",
-        "birthYear": "1960",
-        "deathYear": "",
-        "country": "Kuwait",
-        "impact": "Kuwaiti economist and politician, advocate for gender equality and women's empowerment.",
-        "iso2": "KW"
-    },
+   
     {
         "name": "Maha Al Ghunaim",
         "birthYear": "1963",
@@ -439,38 +541,59 @@
         "impact": "Saudi activist and researcher, advocate for women's rights and social justice.",
         "iso2": "SA"
     },
+    
+    
     {
-        "name": "Yara Shahidi",
-        "birthYear": "2000",
+        "name": "Fatima al-Badawiyya",
+        "birthYear": "",
         "deathYear": "",
-        "country": "USA",
-        "impact": "Iranian-American actress and activist, advocate for social justice and youth empowerment.",
-        "iso2": "US"
+        "country": "Morocco",
+        "impact": "A Sufi mystic and saint known for her piety and devotion to God.",
+        "iso2": "MA"
     },
     {
-        "name": "Nadia Murad",
-        "birthYear": "1993",
+        "name": "Lalla Aicha",
+        "birthYear": "",
         "deathYear": "",
-        "country": "Iraq",
-        "impact": "Iraqi activist and Nobel Peace Prize laureate, advocate for human rights and ending human trafficking.",
-        "iso2": "IQ"
+        "country": "Morocco",
+        "impact": "A princess and poet who wrote about love, nature, and social issues.",
+        "iso2": "MA"
     },
     {
-        "name": "Rima Khalaf",
-        "birthYear": "1953",
+        "name": "Souad Abderrahim",
+        "birthYear": "1962",
         "deathYear": "",
-        "country": "Jordan",
-        "impact": "Jordanian economist and former Under-Secretary-General of the United Nations, advocate for economic development and women's empowerment.",
-        "iso2": "JO"
+        "country": "Tunisia",
+        "impact": "First female mayor of Tunis, advocate for urban development and women's rights.",
+        "iso2": "TN"
     },
     {
-        "name": "Mona Eltahawy",
-        "birthYear": "1967",
+        "name": "Rola Dashti",
+        "birthYear": "1960",
         "deathYear": "",
-        "country": "Egypt",
-        "impact": "Egyptian-American journalist and feminist activist, advocate for women's rights and gender equality.",
-        "iso2": "EG"
+        "country": "Kuwait",
+        "impact": "Kuwaiti economist and politician, advocate for gender equality and women's empowerment.",
+        "iso2": "KW"
     },
+    {
+        "name": "Fatima al-Fihri",
+        "birthYear": "c. 800",
+        "deathYear": "880",
+        "country": "Morocco",
+        "impact": "Moroccan scholar and founder of the University of al-Qarawiyyin, one of the oldest continuously operating universities in the world.",
+        "iso2": "MA"
+    },
+    {
+        "name": "Rasha Al Danhani",
+        "birthYear": "",
+        "deathYear": "",
+        "country": "United Arab Emirates",
+        "impact": "Founder of Dubai-based creative agency \"Let's Talk\".",
+        "iso2": "AE"
+    },
+   
+  
+  
     {
         "name": "Latifa Al-Zayyat",
         "birthYear": "1923",
@@ -495,62 +618,7 @@
         "impact": "Iraqi-American author and humanitarian, advocate for women's rights and ending violence against women.",
         "iso2": "IQ"
     },
-    {
-        "name": "Amal Al Qubaisi",
-        "birthYear": "1969",
-        "deathYear": "",
-        "country": "United Arab Emirates",
-        "impact": "Emirati politician and advocate for education and women's rights.",
-        "iso2": "AE"
-    },
-    {
-        "name": "Mariam Al-Mansouri",
-        "birthYear": "1979",
-        "deathYear": "",
-        "country": "United Arab Emirates",
-        "impact": "Emirati military pilot and advocate for women's empowerment and gender equality.",
-        "iso2": "AE"
-    },
-    {
-        "name": "Dima Wannous",
-        "birthYear": "1982",
-        "deathYear": "",
-        "country": "Syria",
-        "impact": "Syrian author and advocate for women's rights and freedom of expression.",
-        "iso2": "SY"
-    },
-    {
-        "name": "Dr. Hanan Ashrawi",
-        "birthYear": "1946",
-        "deathYear": "",
-        "country": "Palestine",
-        "impact": "Palestinian politician and advocate for human rights and Palestinian statehood.",
-        "iso2": "PS"
-    },
-    {
-        "name": "Dr. Huda Zoghbi",
-        "birthYear": "1954",
-        "deathYear": "",
-        "country": "Lebanon",
-        "impact": "Lebanese-American geneticist and advocate for scientific research and education.",
-        "iso2": "LB"
-    },
-    {
-        "name": "Abeer Abu Ghaith",
-        "birthYear": "1970",
-        "deathYear": "",
-        "country": "Palestine",
-        "impact": "Palestinian journalist and advocate for press freedom and human rights.",
-        "iso2": "PS"
-    },
-    {
-        "name": "Yasmine El-Mehairy",
-        "birthYear": "1983",
-        "deathYear": "",
-        "country": "Egypt",
-        "impact": "Egyptian entrepreneur and advocate for social entrepreneurship and women's empowerment.",
-        "iso2": "EG"
-    },
+    
     {
         "name": "Reem Al Hashimy",
         "birthYear": "1968",
