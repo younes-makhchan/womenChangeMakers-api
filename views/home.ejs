@@ -138,6 +138,25 @@ grid-template-columns: repeat(auto-fit, minmax(10rem, 1fr));
      
 
             <script>
+                  function shuffle(array) {
+  let currentIndex = array.length,  randomIndex;
+
+  // While there remain elements to shuffle.
+  while (currentIndex != 0) {
+
+    // Pick a remaining element.
+    randomIndex = Math.floor(Math.random() * currentIndex);
+    currentIndex--;
+
+    // And swap it with the current element.
+    [array[currentIndex], array[randomIndex]] = [
+      array[randomIndex], array[currentIndex]];
+  }
+
+  return array;
+}
+       
+
                                let womens=document.querySelector(".women");
                               let fetchOff=true;
                                       fetch("/global?page=1",{
@@ -174,7 +193,8 @@ grid-template-columns: repeat(auto-fit, minmax(10rem, 1fr));
                                 })
                                 .then(res=>res.json())
                                 .then((women)=>{
-                                  console.log(women)
+                                  if(page>=25) shuffle(women);
+                                  
                                   for(let index=0;index<women.length;index++){
                                               womens.innerHTML += `<div class="card" style="transform: rotate(${ (Math.random() * (5 - -5) + -5)+"deg"});">
                                       <img class="flag" src="https://flagsapi.com/${women[index]["iso2"]}/flat/32.png" />
@@ -192,8 +212,7 @@ grid-template-columns: repeat(auto-fit, minmax(10rem, 1fr));
                 }
                 } )
 
-              
-            </script>
+                 </script>
 
   
 </body>
