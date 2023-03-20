@@ -41,8 +41,9 @@ app.get("/global",(req,res)=>{
         if(err){console.log("error "+err);return;}
         else{
             womenData=JSON.parse(data);
-            
-            res.json(womenData.slice((page-1)*ITEM_PAR_PAGE,page*ITEM_PAR_PAGE));  
+            let totalPage=parseInt( womenData.length/ITEM_PAR_PAGE);
+            console.log(totalPage)
+            res.json(womenData.slice(((page-1)%totalPage)*ITEM_PAR_PAGE,((page%totalPage)*ITEM_PAR_PAGE)));  
         }
     });
 });
